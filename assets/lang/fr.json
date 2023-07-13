@@ -1,0 +1,264 @@
+{
+    "page": {
+        "home": {
+            "title": "Bienvenue sur mon site web! :)",
+            "desc": "Merci pour votre visite sur mon site ! J'espère que vous trouverez ce que vous cherchez.",
+            "h2": {
+                "who-am-i": "Qui suis-je ?",
+                "navigation": "Navigation"
+            },
+            "section": {
+                "who-am-i": {
+                    "desc": "Je suis un étudiant en informatique et je suis passionné par le développement d'outils, d'applications et de jeux. Je travaille actuellement sur des projets personnels et je suis constament à la recherche de nouvelles idées J'adore aussi faire du speedrun, dessiner, faire de la musique et jouer à des jeux-vidéo."
+                },
+                "navigation": {
+                    "navbar": {
+                        "title": "Barre de Navigation sur le Côté / Barre de Navigation en Bas",
+                        "desc": "Vous pouvez naviguer sur le site en utilisant la barre de navigation sur le côté ou en bas de la page. La barre de navigation sur le côté est plus pratique et donc visible pour les écrans plus grands, tandis que la barre de navigation en bas est plus pratique et donc visible pour les écrans plus petits."
+                    },
+                    "footer": {
+                        "title": "Footer",
+                        "desc": "Vous pouvez naviguer sur les liens externes en utilisant le footer."
+                    }
+                }
+            }
+        },
+        "resume": {
+            "title": "Présentation",
+            "desc": "Merci de consulter ma présentation! Si vous avez des questions, n'hésitez pas à me contacter.",
+            "p": {},
+            "h2": {
+                "education": "Éducation",
+                "skills": "Compétences",
+                "passions": "Passions",
+                "history": "Histoire",
+                "profile-picture": "Photo de Profil",
+                "soft-skills": "Soft Skills"
+            },
+            "section": {
+                "but": {
+                    "title": "Bachelor en Informatique (BUT)",
+                    "date": "Septembre 2021 • Juillet 2024",
+                    "specialized": "Spécialisation en Développement d'Applications"
+                },
+                "baccalaureate": {
+                    "title": "Baccalauréat Général",
+                    "date": "Septembre 2018 • Juillet 2021",
+                    "honors": "Mention Assez Bien",
+                    "specialized": "Spécialisé en Mathématiques, Physique-Chimie et NSI",
+                    "european": "Baccalauréat Anglais Euro"
+                },
+                "development-experience": {
+                    "title": "Expérience de Développement",
+                    "desc": "J'ai de l'expérience dans différents langages de programmation et technologies."
+                },
+                "software-experience": {
+                    "title": "Expérience de Logiciels"
+                },
+                "time-management": {
+                    "title": "Gestion du Temps",
+                    "desc": "En tant qu'étudiant, j'ai su apprendre à gérer mon temps efficacement en prioritisant les tâches nécessaires. J'ai appris à travailler sur plusieurs projets en même temps et à respecter des délais."
+                },
+                "teamwork": {
+                    "title": "Travail d'Équipe",
+                    "desc": "J'ai appris à travailler en équipe en participant à des projets de groupe. J'ai appris à communiquer efficacement avec les autres et à respecter les délais."
+                },
+                "jobs": {
+                    "title": "Emplois",
+                    "desc": "En tant qu'étudiant, je n'ai aucune expérience dans ces emplois. Je suis juste intéressé par ceux-ci de manière générale.",
+                    "list": {
+                        "ux-designer": "Designer UX",
+                        "software-developer": "Développeur d'Applications",
+                        "ai-engineer": "Ingénieur en Intelligence Artificielle"
+                    }
+                },
+                "interests": {
+                    "title": "Loisirs et Centres d'Intérêts",
+                    "programming": {
+                        "title": "Programmation",
+                        "desc": "J'adore créer des applications, que ce soit côté design ou fonctionnel. J'aime aussi faire des expériences avec de nouvelles choses en général."
+                    },
+                    "drawing": {
+                        "title": "Dessin",
+                        "desc": "J'aime dessiner des textures, logos et sprites pour mes projets personnels. J'aime aussi dessiner des personnages de temps en temps. Par exemple, ma photo de profile a été dessinée par moi-même. :)"
+                    },
+                    "music": {
+                        "title": "Musique",
+                        "desc": "J'aime composer de la musique pour mes projets personnels avec FL Studio. Je ne joue pas d'instrument en particulier, mais je suis intéressé à apprendre à jouer du violon."
+                    },
+                    "video-games": {
+                        "title": "Jeux-Vidéo",
+                        "desc": "J'aime jouer à des jeux-vidéo, surtout Splatoon 3. J'aime aussi jouer à des jeux comme Minecraft, Overcooked, Mario Kart 8, The Legend of Zelda: Breath of the Wild, Kena: Bridges of Spirits, etc, tant qu'ils sont créatifs, uniques et bien faits."
+                    }
+                },
+                "history": {
+                    "scratch": {
+                        "desc": "J'ai commencé à apprendre à programmer avec Scratch, en réalisant de petits jeux."
+                    },
+                    "minecraft": {
+                        "desc": "Ensuite, j'ai découvert Minecraft, et son potentiel de réaliser des intéractions avec des blocs de commande et plus tard, des datapacks. Les blocs de commandes et datapacks utilisent un langage de programmation intégré, qui permet aux map makers de créer des intéractions personnalisées avec le jeu."
+                    },
+                    "python": {
+                        "desc": "Ensuite, j'ai découvert Python. Je l'adore car il est très accessible pour les débutants, tout en permettant de réaliser des actions très complexes. Il est plutôt bon dans tous les domaines comme faire du développement backend (ex: Flask), développer des aplications de bureau (ex: PyQt, PySide), analyser des données et faire de l'intelligence artificielle (ex: Panda, OpenCV), etc. Il est plus lent que des langages compilés comme C++ car il s'agit d'un langage interprêté. Cependant, il peut se mélanger avec d'autres langages comme C++ afin de combler ses faiblesses. Il peut donc réaliser la plupart des tâches et laisser celles qui demandent beaucoup de temps à d'autres langages plus rapides comme C++. C'est un langage très polyvalent selon moi."
+                    },
+                    "other-languages": {
+                        "title": "Autres langages",
+                        "desc": "Après avoir découvert Python, j'ai me suis aussi intéressé à d'autres langages, comme C++, PowerPC assembly, HTML, CSS, JS et plus, puisque j'en avais besoin pour certains de mes projets personnels."
+                    }
+                },
+                "profile-picture": {
+                    "desc": "En tant que grand fan de Splatoon, j'ai voulu dessiner une photo de profil qui représenterait une octoling. J'ai d'abord décidé de dessiner la tête avec les cheveux longs car je n'aime pas trop les coupes de cheveux courtes disponibles dans le jeu. Étant donné que la tête rendait super bien, j'ai pensé que ce serait cool de dessiner tout le corps. J'ai donc fait ça. Je suis assez content du résultat. :)<br/><br/>Bien sûr, ma photo de profil ne prend qu'une petite partie du dessin, car une photo de profil est assez petite, donc j'ai gardé la meilleure partie, à savoir la tête avec le signe de la main gauche.<br/><br/>Ce dessin n'est pas encore terminé: tout le corps est fait, et je dessine actuellement l'arme sur laquelle sa main droite repose, à savoir un badigeonneur stylo. Ensuite, je dessinerai les éléments de fond. Actuellement, l'idée est qu'elle sourit, alors qu'elle se prépare pour un match de guerre de territoire, dans la salle des casiers."
+                },
+                "soft-skills": {
+                    "creative": "Créatif",
+                    "curious": "Curieux",
+                    "respectful": "Respectueux",
+                    "open-minded": "Ouvert d'esprit",
+                    "self-motivated": "Motivé par Soi-même",
+                    "honest": "Honnête",
+                    "good-listener": "Bon Écouteur"
+                }
+            }
+        },
+        "projects": {
+            "title": "Projets",
+            "desc": "Voici une liste des projets sur lesquels j'ai travaillé ou sur lesquels je travaille actuellement.",
+            "h2": {
+                "current-projects": "Projets en Cours",
+                "previous-projects": "Projets Précédents"
+            },
+            "section": {
+                "all": {
+                    "project-desc": "Description du Projet",
+                    "screenshots": "Captures d'écran",
+                    "technologies": "Technologies",
+                    "languages": "Langages",
+                    "tools": "Outils",
+                    "status": "Statut",
+                    "progress": "Progression",
+                    "support-for-updates": "Support des Mises à Jour",
+                    "support-for-translation": "Support de la Traduction",
+                    "support-for-themes": "Support des Thèmes",
+                    "platforms": "Plateformes",
+                    "links": "Liens",
+                    "source-code": "Code Source",
+                    "releases": "Sorties",
+                    "iut-property": "Puisque ce projet a été réalisé dans un cadre éducatif, je n'ai pas la permission de partager le code source et sa version exécutable.",
+                    "still-in-development": "Ce projet est toujours en développement. Il n'est pas encore prêt à être utilisé.",
+                    "team": "L'Équipe",
+                    "special-thanks": "Remerciements Spéciaux"
+                },
+                "app-manager": {
+                    "subtitle": "Gérez vos Applications avec Facilité",
+                    "desc": "App Manager est une application pour Windows vous permettant de gérer vos applications. Elle vous permet d'installer, de désinstaller et de mettre à jour les applications sans avoir besoin d'utiliser une invite de commande ou d'avoir à télécharger et installer manuellement l'application depuis le navigateur. Tout est fait dans une interface simple et ergonomique."
+                },
+                "pert-maker": {
+                    "subtitle": "Faites des Diagrammes de PERT avec Facilité",
+                    "desc": "PERT Maker est une application pour Windows qui permet de créer des diagrammes de PERT. Elle permet également de les générer depuis un fichier CSV. Vous pouvez ensuite les exporter en tant qu'image ou de fichier SVG (Image vectorielle / Sans perte de qualité)."
+                },
+                "synel-github-io": {
+                    "title": "Site Web de Synel",
+                    "subtitle": "Basiquement mon site web :)",
+                    "desc": "Le but de ce site web est de présenter mes projets et mes compétences."
+                },
+                "monster-hunter-new-world": {
+                    "subtitle": "Petit Jeu sur une Invite de Commande",
+                    "desc": "Il s'agit d'un petit projet que j'ai réalisé avec l'aide de 3 autres personnes durant ma première année à l'IUT de Dijon. Le but était de faire un petit jeu sur une invite de commande en FreePascal. J'ai réalisé l'interface utilisateur avec sa logique pendant que le reste de mon équipe a réalisé la logique du jeu et je suis très content du résultat final. Puisque nous étions sur une invite de commande, nous ne pouvions afficher que des caractères. Nous avons donc décidé de partir sur du ASCII-art pour illustrer le jeu ! Puisque je voulais qu'il rende bien, j'en ai animé la plupart pour que cela parraisse plus vivant. Aussi, les menus défilent tout seuls pour afficher tous les objets de votre inventaire. Les ASCII-arts des pièces et des monstres ont été trouvés sur internet, donc merci aux auteurs qui les ont fait ! ❤",
+                    "desc-lite": "Il s'agit d'un petit projet que j'ai réalisé avec l'aide de 3 autres personnes durant ma première année à l'IUT de Dijon. Le but était de faire un petit jeu sur une invite de commande en FreePascal. J'ai réalisé l'interface utilisateur avec sa logique pendant que le reste de mon équipe a réalisé la logique du jeu et je suis très content du résultat final."
+                },
+                "plants-vs-zombies": {
+                    "subtitle": "Petit Jeu avec WPF",
+                    "desc": "Le but de ce projet était de créer un petit jeu en 2D avec WPF et un moteur de jeu très basique de l'IUT de Dijon.<br/>Comme ce moteur était très basique, j'ai d'abord fait une grosse mise à jour dessus. Le moteur de base ne pouvait afficher que des images et les déplacer à une position absolue. Ma mise à jour a ajouté la possibilité de les déplacer à partir de leur position relative, de leur donner une collision (rectangle, ellipse, polygone, point, ligne), plusieurs animations (position, rotation, échelle, opacité, motif de texture) et un calque car sinon ce calque était juste l'ordre de dessin, ce qui est juste stupide. J'ai aussi ajouté la possibilité de jouer plusieurs musiques en même temps avec la possibilité de boucler, d'ajouter un point de boucle, de switcher entre les canaux et les musiques avec une transition et de jouer des effets sonores. J'ai aussi changé la façon dont le timer du jeu fonctionne : les professeurs se basaient sur un système d'attente mais le problème était que ça ne supporte pas le fait que le code ne tourne jamais à une fréquence lisse donc j'ai changé ça pour qu'il soit relatif au temps réel. Ensuite j'ai ajouté des fonctionnalités au moteur de jeu, comme la possibilité de chercher un sprite d'un type spécifique, dont nous avions besoin de temps en temps.<br/>Puis, avec mon équipe, nous avons décidé de faire un jeu Plants VS Zombies, même si c'était 2.5D au lieu de 2D, car nous avions le système de calque. De là, j'ai fait toute la partie moteur et scène et une grosse partie de l'UI. Pour les sprites, nous avons utilisé les textures du jeu original et fait les animations de motif de texture. Le reste de mon équipe a fait le système de niveau et la plupart de la logique du jeu.",
+                    "desc-lite": "Le but de ce projet était de créer un petit jeu en 2D avec WPF et un moteur de jeu très basique de l'IUT de Dijon. J'ai fait toute la partie moteur et scène et une grosse partie de l'UI. Pour les sprites, nous avons utilisé les textures du jeu original et fait les animations de motif de texture. Le reste de mon équipe a fait le système de niveau et la plupart de la logique du jeu."
+                },
+                "scorbut": {
+                    "subtitle": "Site de gestion de trophées",
+                    "desc": "Il s'agit d'un petit projet que j'ai réalisé avec l'aide de 3 autres personnes durant ma deuxième année à l'IUT de Dijon. Scorbut est une application Web permettant aux utilisateurs de gagner des trophées et des points, afin de les motiver à contribuer et à participer à des évènements ou à les pousser à réaliser des actions au sein de leur vie étudiante. Je me suis occupé de la gestion des évènements, des routes, de l'affichage dynamique des pages, du style et du système de compte. Le reste de mon équipe s'est occupé de la base de données, de la gestion des utilisateurs, de la gestion des trophées et nous avons tous contribué à la logique du site.",
+                    "desc-lite": "Il s'agit d'un petit projet que j'ai réalisé avec l'aide de 3 autres personnes durant ma deuxième année à l'IUT de Dijon. Scorbut est une application Web permettant aux utilisateurs de gagner des trophées et des points, afin de les motiver à contribuer et à participer à des évènements ou à les pousser à réaliser des actions au sein de leur vie étudiante."
+                },
+                "crypt-of-the-csharpdancer": {
+                    "subtitle": "IA pour un jeu en réseau",
+                    "desc": "Il s'agit d'un petit projet que j'ai réalisé durant ma première année à l'IUT de Dijon. Le but était de faire une intelligence artificielle pour jouer au jeu. Le jeu était un serveur et mon IA était un client. Puis, comme je l'ai fini plus tôt que prévu, j'ai fait un serveur moi-même, ajoutant des monstres qui se déplaçaient dans le jeu, le rendant un peu plus complexe."
+                },
+                "new-super-mario-bros-impending-doom": {
+                    "subtitle": "Mod de New Super Mario Bros. Wii",
+                    "desc": "Un mod de New Super Mario Bros. Wii basé sur Newer Super Mario Bros. Wii avec 8 nouveaux mondes, de nouveaux tilesets, un tas de nouveaux niveaux, de nouvelles musiques, de nouvelles cartes de monde et plus !"
+                },
+                "oge-next": {
+                    "subtitle": "Voir vos Notes Facilement",
+                    "desc": "OGE Next est un visualisateur de notes disponible sur Windows, Linux et MacOS. Il permet de voir vos notes disponibles sur le site OGE. La seule raison pour laquelle cette application existe est que le site n'est pas capable d'afficher les moyennes avant la toute fin du semestre et vous ne pouvez donc pas savoir si vous passez ou non avant que cela arrive et c'est débile. J'ai donc réalisé cette application pour facilement voir ses moyennes à n'importe quel moment."
+                }
+            },
+            "button": {
+                "github": "Voir sur GitHub",
+                "learn-more": "En savoir plus"
+            }
+        },
+        "drawings": {
+            "title": "Dessins",
+            "desc": "Je poste ici des dessins que je réalise durant mon temps libre."
+        }
+    },
+    "navbar": {
+        "home": "Accueil",
+        "resume": "Présentation",
+        "projects": "Projets",
+        "drawings": "Dessins",
+        "contact": "Contact",
+        "apps": "Applications",
+        "games": "Jeux"
+    },
+    "tooltip": {
+        "lang": {
+            "python": "5 ans",
+            "qt": "2 ans",
+            "flask": "1 an",
+            "html": "4 ans",
+            "css": "4 ans",
+            "javascript": "4 ans",
+            "typescript": "1 an",
+            "powerpc": "2 ans",
+            "cpp": "4 ans",
+            "c": "2 ans",
+            "csharp": "2 ans",
+            "java": "1 an",
+            "arduino": "1 an",
+            "bash": "2 ans",
+            "git": "5 ans",
+            "unity": "3 ans",
+            "mysql": "2 ans",
+            "sqlite": "2 ans",
+            "freepascal": "1 an",
+            "php": "1 an"
+        },
+        "apps": {
+            "office": "9 ans",
+            "ggdocs": "9 ans",
+            "ggsheets": "9 ans",
+            "ggslides": "9 ans",
+            "ggdrive": "9 ans",
+            "visualstudiocode": "4 ans",
+            "visualstudio": "3 ans",
+            "visualparadigm": "1 an",
+            "mysqlworkbench": "1 an",
+            "sublimetext": "9 ans",
+            "paintnet": "5 ans",
+            "photoshop": "1 an",
+            "illustrator": "1 an",
+            "audacity": "6 ans",
+            "flstudio": "2 ans",
+            "blender": "2 ans",
+            "lazarus": "1 an"
+        },
+        "flags": {
+            "fr": "Français",
+            "en": "Anglais"
+        },
+        "misc": {
+            "check-yes": "Oui",
+            "check-no": "Non",
+            "auto-updates": "Mises à Jour Automatiques",
+            "plugin-support": "Support des Plugins"
+        }
+    }
+}

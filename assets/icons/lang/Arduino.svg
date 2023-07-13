@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.arduino-st0{fill:none;stroke:#FFFFFF;stroke-width:36.5319;stroke-miterlimit:11.0703;}
+	.arduino-st1{stroke:#FFFFFF;stroke-width:12.1773;stroke-miterlimit:11.0703;}
+	.arduino-st2{stroke:#FFFFFF;stroke-width:17.1866;stroke-miterlimit:11.0703;}
+</style>
+<path id="path6_3_" class="arduino-st0" d="M456.3,255.4c0,46.8-40,85.2-88.6,85.2C252,346.8,264.1,170.2,142.4,170.2"/>
+<path id="path6_2_" class="arduino-st0" d="M53.7,255.4c0,46.8,40,85.2,88.6,85.2c115.7,6.1,103.5-170.5,225.3-170.5
+	c48.6,0,88.6,38.5,88.6,85.2"/>
+<path id="path6" class="arduino-st0" d="M142.4,170.2c-48.6,0-88.6,38.5-88.6,85.2"/>
+<g id="text10">
+	<path id="path3075" class="arduino-st1" d="M357.9,276.5v-20h-19.8v-8.3h19.8v-19.8h8.4v19.8h19.8v8.3h-19.8v20H357.9z"/>
+</g>
+<g id="text10-7">
+	<rect id="path3078" x="119.9" y="249.1" class="arduino-st2" width="50.7" height="6.8"/>
+</g>
+</svg>

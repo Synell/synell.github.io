@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.externallink-st0{fill:#FFFFFF;}
+</style>
+<path class="externallink-st0" d="M354.5,349.7V416c0,20.4-16.6,36.9-36.9,36.9H96c-20.4,0-36.9-16.6-36.9-36.9V194.5c0-20.4,16.6-36.9,36.9-36.9
+	h67.5l59.1-59.1H96c-53,0-96,43-96,96V416c0,53,43,96,96,96h221.5c53,0,96-43,96-96V290.6L354.5,349.7z"/>
+<g>
+	<path class="externallink-st0" d="M444.7,0h-202c-37.1,0-34.6,10-15,29.6L291.1,93L182.4,201.7c-22.5,22.5-22.5,59,0,81.5l47.5,47.5
+		c22.5,22.5,59,22.5,81.5,0L420.1,222l62.2,62.2c21.7,21.7,29.7,22.2,29.7-14.9l0-202C512-0.4,512.5,0,444.7,0z"/>
+</g>
+</svg>

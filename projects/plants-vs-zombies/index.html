@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="/projects/plants-vs-zombies/icon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/image_slider/style.css">
+    <link rel="stylesheet" href="/assets/css/misc/lang.css">
+    <link rel="stylesheet" href="/assets/css/misc/app.css">
+    <link rel="stylesheet" href="/assets/css/misc/platform.css">
+    <link rel="stylesheet" href="/assets/css/background/starry_sky.css">
+
+    <title>Synel's Website • Plants VS Zombies</title>
+</head>
+<body>
+    <div include-html="/assets/utility/navbar.html"></div>
+
+    <main>
+        <div class="title">
+            <h1>Plants VS Zombies</h1>
+            <p translate-html="page.projects.section.plants-vs-zombies.subtitle">Little Game with WPF</p>
+        </div>
+
+        <div class="separator"></div>
+
+        <div class="group">
+            <h2 translate-html="page.projects.section.all.project-desc">Project Description</h2>
+            <section>
+                <p translate-html="page.projects.section.plants-vs-zombies.desc">The goal of this project was to make a little 2D game with WPF and a basic game engine by the IUT de Dijon.<br/>As this framework was primary, I first made a big update on it. The base engine can only show images and move them to an absolute position. My update added the option to move them from their relative position, to give them a collision (rectangle, ellipse, polygon, point, line), multiple animations (position, rotation, scale, opacity, pattern texture) and a layer because otherwise the layer was just the order of drawing, which is just dumb. I also added multi-stream musics with the option to loop, to add a loop point, to switch between channels and musics with a transition and to play sound effects. I also changed how the game timer works: teachers based their timer on a waiting system but the problem was that it doesn't support the fact the code never run at a smooth frequence so I changed it to be relative to the real time. Then I added features to the game engine, like the option to search for a sprite of a specific type, which we needed in some rare cases.<br/>Then, with my team, we planned on making a Plants VS Zombies game, even if it was 2.5D instead 2D, because we had the layer system. From there, I made all the engine and scene stuff, and a big part of the UI. For the sprites, we used the textures from the original game and made the pattern texture animations. The rest of my team made the level system, and most of the game logic.</p>
+            </section>
+
+            <!-- <h2 translate-html="page.projects.section.all.screenshots">Screenshots</h2> -->
+            <div class="image-slider-container">
+                <div class="image-slider">
+                    <div class="slide">
+                        <iframe src="https://drive.google.com/file/d/1AChAjLogTFlK2ZfucaiXHpuz-TqqCfVg/preview" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" allowfullscreen></iframe>
+                    </div>
+
+                    <div class="slide">
+                        <img src="/projects/plants-vs-zombies/images/0.png" alt="" />
+                    </div>
+
+                    <div class="slide">
+                        <img src="/projects/plants-vs-zombies/images/1.png" alt="" />
+                    </div>
+
+                    <div include-html="/assets/utility/image_slider/buttons.html"></div>
+                </div>
+            </div>
+
+            <h2 translate-html="page.projects.section.all.team">The Team</h2>
+            <section>
+                <div class="team-container">
+                    <div include-html="/assets/utility/team/Luki.html"></div>
+                    <div include-html="/assets/utility/team/PaSympa.html"></div>
+                    <div include-html="/assets/utility/team/SoraxDubbing.html"></div>
+                    <div include-html="/assets/utility/team/Synel.html"></div>
+                </div>
+            </section>
+
+            <h2 translate-html="page.projects.section.all.technologies">Technologies</h2>
+            <section>
+                <h3 translate-html="page.projects.section.all.languages">Languages</h3>
+
+                <div class="color-cell-container">
+                    <div include-html="/assets/utility/lang/CSharp.html"></div>
+                    <div include-html="/assets/utility/lang/Git.html"></div>
+                </div>
+
+                <div class="separator"></div>
+
+                <h3 translate-html="page.projects.section.all.tools">Tools</h3>
+
+                <div class="color-cell-container">
+                    <div include-html="/assets/utility/app/VisualStudio.html"></div>
+                    <div include-html="/assets/utility/app/SublimeText.html"></div>
+                    <div include-html="/assets/utility/app/PaintNET.html"></div>
+                    <div include-html="/assets/utility/app/FLStudio.html"></div>
+                    <div include-html="/assets/utility/app/Audacity.html"></div>
+                </div>
+
+                <div class="separator"></div>
+
+                <h3 translate-html="page.projects.section.all.platforms">Platforms</h3>
+
+                <div class="color-cell-container">
+                    <div include-html="/assets/utility/platform/Windows.html"></div>
+                </div>
+            </section>
+
+            <h2 translate-html="page.projects.section.all.status">Status</h2>
+            <section>
+                <h3 translate-html="page.projects.section.all.support-for-updates">Support for Updates</h3>
+                <ul class="misc">
+                    <div include-html="/assets/utility/misc/check_no.html"></div>
+                </ul>
+
+                <div class="separator"></div>
+
+                <h3 translate-html="page.projects.section.all.progress">Progress</h3>
+                <div class="progress-bar">
+                    <div class="progress" style="width: 100%">
+                        <p>100%</p>
+                    </div>
+                </div>
+
+                <div class="separator"></div>
+
+                <h3 translate-html="page.projects.section.all.support-for-translation">Support for Translation</h3>
+                <ul class="flags">
+                    <div include-html="/assets/utility/flag/fr.html"></div>
+                    <div include-html="/assets/utility/flag/en.html"></div>
+                </ul>
+
+                <div class="separator"></div>
+
+                <h3 translate-html="page.projects.section.all.support-for-themes">Support for Themes</h3>
+                <ul class="misc">
+                    <div include-html="/assets/utility/misc/check_no.html"></div>
+                </ul>
+            </section>
+
+            <h2 translate-html="page.projects.section.all.links">Links</h2>
+            <section>
+                <p translate-html="page.projects.section.all.iut-property">Because this project was made in a school setting, I don't have the permission to share the source code and its release build.</p>
+            </section>
+        </div>
+
+        <div include-html="/assets/utility/footer.html"></div>
+    </main>
+
+    <div include-html="/assets/utility/background/starry_sky.html"></div>
+
+    <script src="/assets/js/include.js"></script>
+</body>
+</html>

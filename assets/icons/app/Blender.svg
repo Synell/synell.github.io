@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.blender-st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.blender-st1{fill:none;stroke:#FFFFFF;stroke-width:47.1594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1514;}
+	.blender-st2{fill:none;stroke:#FFFFFF;stroke-width:44.8069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1514;}
+	.blender-st3{fill:none;stroke:#FFFFFF;stroke-width:54.2443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1514;}
+</style>
+<g>
+	<path class="blender-st0" d="M323.2,144.6c85.6,0,155.1,63.3,155.1,141.3s-69.5,141.3-155.1,141.3s-155.1-63.3-155.1-141.3
+		S237.6,144.6,323.2,144.6L323.2,144.6z M322.5,187.9c52.3,0,94.7,38.6,94.7,86.2c0,47.6-42.4,86.2-94.7,86.2s-94.7-38.6-94.7-86.2
+		C227.8,226.6,270.3,187.9,322.5,187.9L322.5,187.9z M325.2,216.8c33.3,0,60.4,24.5,60.4,54.7c0,30.2-27.1,54.7-60.4,54.7
+		c-33.3,0-60.4-24.5-60.4-54.7C264.8,241.3,291.9,216.8,325.2,216.8z"/>
+	<path class="blender-st1" d="M264.8,82.9l152.4,120.6"/>
+	<path class="blender-st2" d="M118.1,166.1l178.6,1.8"/>
+	<path class="blender-st3" d="M59.8,337.9l168.1-134.4"/>
+</g>
+</svg>

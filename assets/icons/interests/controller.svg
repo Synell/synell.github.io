@@ -1,0 +1,21 @@
+<svg version="1.1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.controller-st0{fill:none;stroke:#FFFFFF;stroke-width:32.6526;stroke-linejoin:round;stroke-miterlimit:163.2629;}
+	.controller-st1{fill:#FFFFFF;}
+</style>
+<path class="controller-st0" d="M400,269.4c-3.9-149.5,212.2-16.3,212.2-179.6"/>
+<circle class="controller-st1" cx="563.3" cy="351" r="32.7"/>
+<circle class="controller-st1" cx="563.3" cy="481.6" r="32.7"/>
+<path class="controller-st1" d="M595.9,416.3c0-18,14.6-32.7,32.7-32.7c18,0,32.7,14.7,32.7,32.7S646.6,449,628.6,449S595.9,434.3,595.9,416.3z
+	"/>
+<circle class="controller-st1" cx="498" cy="416.3" r="32.7"/>
+<g>
+	<path class="controller-st1" d="M595.9,236.7c-65.3,0-99.8,32.7-130.6,32.7H318.4c-30.8,0-49-32.7-114.3-32.7
+		c-146.9,0-146.9,391.8-146.9,391.8c0,54.1,32.7,81.6,81.6,81.6c49,0,114.3-130.6,179.6-130.6H498c65.3,0,114.3,130.6,163.3,130.6
+		c49,0,81.6-27.5,81.6-81.6C742.8,628.6,742.8,236.7,595.9,236.7z M334.7,465.3h-65.3v65.3h-65.3v-65.3h-65.3V400h65.3v-65.3h65.3
+		V400h65.3V465.3z M678.7,439.4l-92.4,92.4c-12.8,12.7-33.4,12.7-46.2,0l-92.4-92.4c-12.7-12.8-12.7-33.4,0-46.2l92.4-92.4
+		c12.8-12.7,33.4-12.7,46.2,0l92.4,92.4v0C691.4,406,691.4,426.7,678.7,439.4z"/>
+	<rect x="204.1" y="400" class="controller-st1" width="65.3" height="65.3"/>
+</g>
+</svg>

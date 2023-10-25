@@ -202,10 +202,31 @@ main {
         grid-gap: 16px;
     }
 
-    .img-side img {
+    .img-side > div {
+        display: grid;
+        grid-template-columns: 64px 1fr;
+        min-width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .img-side > div > img {
         width: 64px;
         height: 64px;
         border-radius: 8px;
+    }
+
+    .img-side > div > div.old-pfp {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(32px, max-content));
+        margin-left: 4px;
+        align-items: center;
+    }
+
+    .img-side > div > div.old-pfp > img {
+        width: 28px;
+        height: 28px;
+        border-radius: 4px;
     }
 
     main {
@@ -261,9 +282,22 @@ main {
         grid-gap: 12px;
     }
     
-    .img-side img {
+    .img-side > div > img {
         width: 128px;
         height: 128px;
+        border-radius: 8px;
+    }
+
+    .img-side > div > div.old-pfp {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(64px, max-content));
+        justify-items: center;
+        margin-top: 4px;
+    }
+
+    .img-side > div > div.old-pfp > img {
+        width: 60px;
+        height: 60px;
         border-radius: 8px;
     }
 
@@ -294,10 +328,23 @@ main {
         align-items: center;
     }
 
-    .img-side img {
+    .img-side > div > img {
         width: 256px;
         height: 256px;
         border-radius: 16px;
+    }
+
+    .img-side > div > div.old-pfp {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(64px, max-content));
+        justify-items: center;
+        margin-top: 8px;
+    }
+
+    .img-side > div > div.old-pfp > img {
+        width: 60px;
+        height: 60px;
+        border-radius: 8px;
     }
 }
 
